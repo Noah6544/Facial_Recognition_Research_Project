@@ -38,7 +38,7 @@ face_cascade_default = cv.CascadeClassifier("C:\\Users\\user1\\Documents\\resear
 
 #PATHS AND LISTS
 test_emptyface_list = []
-test_noface = "C:\\Users\\user1\\OneDrive - Rockdale County Public Schools\\10th grade\\research\\Coding\\Images\\001_L1.jpg"
+test_noface = "C:\\Users\\user1\\\\10th grade\\research\\Coding\\Images\\001_L1.jpg"
 mugshot_frontal_cropped_all = "C:\\Users\\user1\\Documents\\research\\SCface_database\\SCface_database\\mugshot_frontal_cropped_all\\"
 mugshot_rotation_all= "C:\\Users\\user1\\Documents\\research\\SCface_database\\SCface_database\\mugshot_rotation_all\\"
 testing_images_path = "C:\\Users\\user1\\Documents\\research\\Images\\"
@@ -51,9 +51,6 @@ databasepath = "C:\\Users\\user1\\Documents\\research\\10k adult database\\10kfa
 tenkfacelist = []
 tenkface_list_aligned = []
 tenkface_empty = []
-fourty_nine_path = "C:\\Users\\user1\\Documents\\research\\10k adult database\\49faces\\Publication Friendly 49-Face Database\\49 Face Images\\"
-fourty_nine_list = []
-fourty_nine_list_failed = []
 find_face_data = []
 #VARAIBLES
 width, height = 341,512
