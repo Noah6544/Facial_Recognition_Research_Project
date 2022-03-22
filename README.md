@@ -1,4 +1,5 @@
 ## Facial Recognition Research Project
+## Research Question:
 # What is the Effect of Facial Recognition on Racial Bias?
 
 ## Abstract
