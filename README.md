@@ -1,5 +1,6 @@
 ### Facial Recognition Research Project (full research paper above, below is main topics covered)
 ### 2nd place honors school level
+### This project was concluded in February 2022. Uploading here because I didn't do all that work just for it to never be seen ever again. Maybe this will help someone working on their own research.
 
 ### Personal motivation:
 I made this as my sophomore high school project because I was wanting to work with computer vision and I eventually stumbled upon facial recognition and its possible biases against certain races. 
