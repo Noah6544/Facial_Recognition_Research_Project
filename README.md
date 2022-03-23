@@ -36,24 +36,24 @@ Over 10,000 trials were run on images from 2 databases.  Google’s facial recog
 
 ## Results
 
-The resulting data was extremely diverse for all 10,000 images (Figure 1.). There were low outliers which signify that the accuracy of the facial recognition is likely too low to be used in a real-world setting. On all 10,000 images, the highest value of % confidence was 96.98%. This value was the outlier for the upper data. The mode of all 10k image assessments (mode is used because as seen in Figure. 1, the mean isn’t a viable measurement due to the amount of inaccurate assessment outliers) was 86.93% confidence score. The mode of the Caucasian images (Figure 2.) was 75.2% confidence score. The mode of the African American images (Figure 2.) was 76.94% confidence score. This difference isn’t enough to conclusively support the hypothesis alone, as 1% variation could be blamed on experiment errors. More conclusive data can be seen when comparing male (Figure 3.) and female (Figure 3.) demographics. The mode of the male images’ confidence scores was significantly less than the female values. The male’s mode was 75.2% in confidence assessment. While the female mode was 83.13% in confidence assessment. This did support not only the hypothesis but the sub hypothesis as well.
+The resulting data was extremely diverse for all 10,000 images [*(Figure 1)*](Graphs/10k_total_main.png). There were low outliers which signify that the accuracy of the facial recognition is likely too low to be used in a real-world setting. On all 10,000 images, the highest value of % confidence was 96.98%. This value was the outlier for the upper data. The mode of all 10k image assessments (mode is used because as seen in [*(Figure 1)*](Graphs/10k_total_main.png), the mean isn’t a viable measurement due to the amount of inaccurate assessment outliers) was 86.93% confidence score. The mode of the Caucasian images [*(Figure 2.)*](Graphs/african_amerian_vs_white_data.png) was 75.2% confidence score. The mode of the African American images [*(Figure 2)*](Graphs/african_amerian_vs_white_data.png) was 76.94% confidence score. This difference isn’t enough to conclusively support the hypothesis alone, as 1% variation could be blamed on experiment errors. More conclusive data can be seen when comparing male [*(Figure 3.)*](Graphs/male_vs_female_data.png) (and female [*(Figure 3.)*](Graphs/male_vs_female_data.png) demographics. The mode of the male images’ confidence scores was significantly less than the female values. The male’s mode was 75.2% in confidence assessment. While the female mode was 83.13% in confidence assessment. This did support not only the hypothesis but the sub hypothesis as well.
 
 ## [Graphs](Graphs/)
 
 
 
-*Figure 1: [10k total images](Graphs/10k total images bins = 250 square acutal color.png/)*
+*Figure 1: [10k total images](Graphs/10k_total_main.png)*
 
 
 ![figure 1 image](https://github.com/Noah6544/Facial_Recognition_Research_Project/blob/main/Graphs/10k%20total%20images%20bins%20=%20250%20square%20acutal%20color.png?raw=true)
 
 
-Figure 2: [African-Amerian Data vs Caucasian Data](Graphs/)
+*Figure 2: [African-Amerian Data vs Caucasian Data](Graphs/african_amerian_vs_white_data.png)*
 
-![figure 2 image](https://github.com/Noah6544/Facial_Recognition_Research_Project/blob/main/Graphs/african%20american%20vs%20white%20data.png?raw=true)
+![figure 2 image](https://github.com/Noah6544/Facial_Recognition_Research_Project/blob/main/Graphs/african_amerian_vs_white_data.png?raw=true)
 
 
-Figure 3: [Male Data vs Female Data](Graphs/)
+Figure 3: [Male Data vs Female Data](Graphs/male_vs_female_data.png)
 
 ![figure 3 image](https://user-images.githubusercontent.com/56573280/159721323-4191c708-2ce2-41ac-ba4d-09adc1d36ba0.png)
 
