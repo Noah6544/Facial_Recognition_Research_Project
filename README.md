@@ -43,18 +43,18 @@ The resulting data was extremely diverse for all 10,000 images [*(Figure 1)*](Gr
 
 
 
-*Figure 1: [10k total images](Graphs/10k_total_main.png)*
+### *Figure 1: [10k total images](Graphs/10k_total_main.png)*
 
 
-![figure 1 image](https://github.com/Noah6544/Facial_Recognition_Research_Project/blob/main/Graphs/10k%20total%20images%20bins%20=%20250%20square%20acutal%20color.png?raw=true)
+![figure 1 image](https://github.com/Noah6544/Facial_Recognition_Research_Project/blob/main/Graphs/10k_total_main.png?raw=true)
 
 
-*Figure 2: [African-Amerian Data vs Caucasian Data](Graphs/african_amerian_vs_white_data.png)*
+### *Figure 2: [African-Amerian Data vs Caucasian Data](Graphs/african_amerian_vs_white_data.png)*
 
 ![figure 2 image](https://github.com/Noah6544/Facial_Recognition_Research_Project/blob/main/Graphs/african_amerian_vs_white_data.png?raw=true)
 
 
-Figure 3: [Male Data vs Female Data](Graphs/male_vs_female_data.png)
+### Figure 3: [Male Data vs Female Data](Graphs/male_vs_female_data.png)
 
 ![figure 3 image](https://user-images.githubusercontent.com/56573280/159721323-4191c708-2ce2-41ac-ba4d-09adc1d36ba0.png)
 
